@@ -1,0 +1,35 @@
+@import "global/normalize";
+@import "global/null";
+@import "global/variables";
+@import "global/mixins";
+
+html {
+}
+
+body {
+}
+
+.wrapper {
+	display: flex;
+	flex-direction: column;
+	min-height: 100%;
+}
+
+.content {
+	flex: 1 0 auto;
+}
+
+.footer {
+	flex: 0 0 auto;
+}
+
+.container {
+}
+
+// Blocks
+
+// Blocks
+
+//media
+@import "global/media";
+//media
